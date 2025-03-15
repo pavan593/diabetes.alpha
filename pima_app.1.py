@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
-
+#pip install joblib
 
 # pima_app.py
 import streamlit as st
