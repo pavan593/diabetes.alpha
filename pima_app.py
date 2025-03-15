@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+#pip install joblib
 # pima_app.py
 import streamlit as st
 import numpy as np
